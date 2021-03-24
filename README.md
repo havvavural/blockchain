@@ -63,7 +63,9 @@
 * Click Change Network at the bottom left
 * Click "Add Custom Node", then add the custom network information that you set in the genesis.
 * Make sure that you scroll down to choose Custom in the "Network" column to reveal more options like Chain ID
-![](custom_node.png)
+
+![](https://github.com/[havvavural]/[blockchain-homework]/blob/[main]/custom_node.png?raw=true)
+
 * Type ETH in the Currency box.
 * In the Chain ID box, type the chain id you generated during genesis creation.
 * In the URL box type: http://127.0.0.1:8545.  This points to the default RPC port on your local machine.
@@ -77,11 +79,17 @@
 * Check your balance. This is the balance that was pre-funded for this account in the genesis configuration; however, these millions of ETH tokens are just for testing purposes.
 * In the To Address box, type the account address from Node2, then fill in an arbitrary amount of ETH
 * Confirm the transaction by clicking "Send Transaction", and the "Send" button in the pop-up window.
-![](number_of_ETH_sent.png)
+
+![](https://github.com/[havvavural]/[blockchain-homework]/blob/[main]/number_of_ETH_sent.png?raw=true)
+
 * Click the Check TX Status when the green message pops up, confirm the logout
-![](TX_hash.png)
+
+![](https://github.com/[havvavural]/[blockchain-homework]/blob/[main]/TX_hash.png?raw=true)
+
 * You should see the transaction go from Pending to Successful in around the same blocktime you set in the genesis.
-![](transaction_pending.png)
+
+![](https://github.com/[havvavural]/[blockchain-homework]/blob/[main]/transaction_pending?raw=true)
+
 * You can click the Check TX Status button to update the status.
 
 
