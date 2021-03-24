@@ -80,15 +80,15 @@
 * In the To Address box, type the account address from Node2, then fill in an arbitrary amount of ETH
 * Confirm the transaction by clicking "Send Transaction", and the "Send" button in the pop-up window.
 
-![](https://github.com/[havvavural]/[blockchain-homework]/blob/[main]/number_of_ETH_sent.png?raw=true)
+![](https://github.com/havvavural/blockchain-homework/blob/main/screenshots/number_of_ETH_sent.png)
 
 * Click the Check TX Status when the green message pops up, confirm the logout
 
-![](https://github.com/[havvavural]/[blockchain-homework]/blob/[main]/TX_hash.png?raw=true)
+![](https://github.com/havvavural/blockchain-homework/blob/main/screenshots/TX_hash.png)
 
 * You should see the transaction go from Pending to Successful in around the same blocktime you set in the genesis.
 
-![](https://github.com/[havvavural]/[blockchain-homework]/blob/[main]/transaction_pending?raw=true)
+![](https://github.com/havvavural/blockchain-homework/blob/main/screenshots/transaction_pending.png)
 
 * You can click the Check TX Status button to update the status.
 
